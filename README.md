@@ -8,13 +8,13 @@ Este repositório reúne meu portfólio de projetos, experiências acadêmicas e
 
 Meu portfólio completo está disponível em PDF:
 
-[Acessar Portfólio de Talentos](./Portifolio%20de%20talentos.pdf)
+[Acessar Portfólio de Talentos](./Portfolio%20de%20talentos.pdf)
 
 ## Certificado UNASP
 
 O certificado mencionado no PDF:
 
-[Acessar Certificado](./Certificado%202.pdf)
+[Acessar Certificado](./UNASP%202.pdf)
 
 ## Projetos
 
